@@ -1,0 +1,81 @@
+h1{
+    width: 200px;
+    height: 200px;
+    font-size: 200%;
+    margin: auto;
+}
+
+p{
+    position: relative;
+}
+.first{
+    position: relative;
+    bottom: 10px;
+    left: 10px;
+}
+
+.second{
+    position: absolute ;
+    left: 100px;
+    top: 15x;
+}
+
+.third{
+    position: sticky;
+}
+
+
+.background{
+    text-align: center;
+    font-size: larger;
+    width: 100%;
+    width: 360px;
+    height: 260px;
+    background-color: gainsboro;
+    background-image: url(https://hips.hearstapps.com/hmg-prod/images/beautiful-tropical-sunset-scenery-two-sun-beds-royalty-free-image-1595368231.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-: ;
+}    
+
+
+.display{
+ background-color: aliceblue;
+ color: rgb(255, 0, 0);
+ font-size: 12px;
+ width: 90%;
+ margin: 0 auto;
+ padding: 30px;
+ min-height: 40px;
+ text-align: center;
+}
+
+.block{
+    height: 100px;
+    width: 300px;
+    margin: 20px;
+    padding: 30px;
+    display: inline-block;
+}
+
+.block-one{
+    background-color: blueviolet;
+}
+
+.block-two{
+    background-color: cadetblue;
+}
+
+.block-three{
+    background-color: aqua;
+}
+
+.block-four{
+    background-color: chocolate;
+}
+
+img{
+    width: 360px;
+    height: 260px;
+    float: right;
+}
