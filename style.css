@@ -1,407 +1,284 @@
-.header{
-    position: absolute;
-    width: 1728px;
-    height: 80px;
-    left: 0px;
-    top: 0px;
+div{
+    width: 951px;
+    height: 2877px;
     
-    background: #F4F4F4;
-}
-
-.vbk{
-    position: absolute;
-    width: 273px;
-    height: 28px;
-    left: 76px;
-    top: 26px;
-    
-    font-family: 'Times';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 24px;
-    line-height: 28px;
-    
-    color: #000000;
-}
-
-
-
-
-.tsa{
-    position: absolute;
-    width: 223px;
-    height: 28px;
-    left: 1425px;
-    top: 26px;
-    
-    font-family: 'Times';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 24px;
-    line-height: 28px;
-    
-    color: #000000;
-}
-
-.cards{
-    position: absolute;
-    width: 1578px;
-    height: 1200px;
-    left: 76px;
-    top: 141px;
+    background: #FFFFFF;
 }
 
 .salem{
     position: absolute;
-    width: 274px;
-    height: 1200px;
-    left: 0px;
-    top: 0px;
-}
+    width: 216px;
+    height: 23px;
+    left: 29px;
+    top: 28px;
 
-.frame1{
-    position: absolute;
-    width: 274px;
-    height: 380px;
-    left: 0px;
-    top: 0px;
-    
-    background: #F4F4F4;
-    border-radius: 10px;    
-}
-
-.card1{
-    width: 201px
-    height: 74px
-    top: 34px
-    left: 24px
-    font-family: Times;
-    font-size: 32px;
-    font-weight: 400;
-    line-height: 37px;
-    letter-spacing: 0em;
-    text-align: left;
-    color: #000000;
-}
-
-.l1{
-    width: 230px
-    height: 224px
-    top: 141px
-    left: 25px
-    font-family: Times;
-    font-size: 24px;
-    font-weight: 400;
-    line-height: 28px;
-    letter-spacing: 0em;
-    text-align: left;
-    color: #000000;
-}
-
-
-.close{
-    position: absolute;
-    width: 40px;
-    height: 21px;
-    left: 216px;
-    top: 13px;
-    
     font-family: 'Times';
     font-style: normal;
     font-weight: 400;
-    font-size: 18px;
-    line-height: 21px;
-    
-    
+    font-size: 20px;
+    line-height: 23px;
+
     color: #000000;
 }
 
-
-
-
-
-.frame2{
+.veb{
     position: absolute;
-    width: 274px;
-    height: 380px;
-    left: 0px;
-    top: 410px;
-    
-    background: #F4F4F4;
-    border-radius: 10px;
-    
-}
+    width: 916px;
+    height: 46px;
+    left: 29px;
+    top: 67px;
 
-.card2{
-    position: absolute;
-    width: 201px;
-    height: 111px;
-    left: 24px;
-    top: 34px;
-    
     font-family: 'Times';
     font-style: normal;
     font-weight: 400;
-    font-size: 32px;
-    line-height: 37px;
-    
-    color: #000000;
-    
-}
+    font-size: 20px;
+    line-height: 23px;
 
-
-.close2{
-    position: absolute;
-    width: 40px;
-    height: 21px;
-    left: 216px;
-    top: 13px;
-    
-    font-family: 'Times';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 18px;
-    line-height: 21px;
-    
     color: #000000;
 }
 
-
-
-
-.l2{
+.lv{
     position: absolute;
-    width: 230px;
-    height: 198px;
-    left: 25px;
-    top: 167px;
-    
-    font-family: 'Times';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 24px;
-    line-height: 28px;
-    
-    color: #000000;
-    
-}
-
-.frame3{
-    position: absolute;
-    width: 274px;
-    height: 380px;
-    left: 0px;
-    top: 820px;
-    
-    background: #F4F4F4;
-    border-radius: 10px;    
-}
-
-.card3{
-    position: absolute;
-    width: 201px;
-    height: 111px;
-    left: 24px;
-    top: 34px;
-    
-    font-family: 'Times';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 32px;
-    line-height: 37px;
-    
-    color: #000000;    
-}
-
-.close3{
-    position: absolute;
-    width: 40px;
-    height: 21px;
-    left: 216px;
-    top: 13px;
-    
-    font-family: 'Times';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 18px;
-    line-height: 21px;
-    
-    color: #000000; 
-}
-
-.l3{
-    position: absolute;
-    width: 230px;
+    width: 200px;
     height: 200px;
-    left: 25px;
-    top: 165px;
+    left: 29px;
+    top: 157px;
+    bottom: 200px;
+    
+    background: #FF9494;
+    border-radius: 100px 100px 100px 0px;
+
+   
+   
+}
+
+
+
+.citta{
+
+    position: absolute;
+    width: 893px;
+    height: 155px;
+    left: 29px;
+    top: 373px;
+    
+    background: #3F3F3F;
+    border-radius: 0px 20px 20px 20px;
+    
+}
+
+.cc{
+    position: absolute;
+    width: 264px;
+    height: 43px;
+    left: 315px;
+    top: 17px;
     
     font-family: 'Times';
     font-style: normal;
-    font-weight: 400;
-    font-size: 24px;
-    line-height: 28px;
-    
-    color: #000000;
-    
-}
-
-.frame5{
-    position: absolute;
-    width: 1200px;
-    height: 380px;
-    left: 378px;
-    top: 0px;
-    
-    background: #F4F4F4;
-    border-radius: 10px;    
-}
-
-.zh{
-    position: absolute;
-    width: 263px;
-    height: 28px;
-    left: 27px;
-    top: 27px;
-    
-    font-family: 'Times';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 24px;
-    line-height: 28px;
-    
-    color: #000000;
-}
-
-.frame4{
-    position: absolute;
-    width: 1572px;
-    height: 591px;
-    left: 76px;
-    top: 1491px;
-    
-}
-
-.ers{
-    position: absolute;
-    width: 760px;
-    height: 69px;
-    left: 406px;
-    top: 0px;
-    
-    font-family: 'Times';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 60px;
-    line-height: 69px;
-
-    color: #000000;  
-}
-
-
-
-.ers2{
-    position: absolute;
-    width: 1551px;
-    height: 276px;
-    left: 21px;
-    top: 95px;
-    
-    font-family: 'Times';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 40px;
-    line-height: 46px;
-    
-    color: #000000;
-}
-
-.cd{
-    position: absolute;
-    width: 548px;
-    height: 21px;
-    left: 21px;
-    top: 480px;
-    
-    font-family: 'Times';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 18px;
-    line-height: 21px;
-    
-    color: #000000; 
-}
-
-.button{
-    position: absolute;
-    width: 250px;
-    height: 75px;
-    left: 21px;
-    top: 516px;
-    
-    background: #3455FF;
-    border-radius: 10px;
-}
-
-.more{
-    position: absolute;
-    width: 155px;
-    height: 37px;
-    left: 47px;
-    top: 19px;
-    
-    font-family: 'Times';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 32px;
-    line-height: 37px;
+    font-weight: 700;
+    font-size: 37px;
+    line-height: 43px;
+    /* identical to box height */
+    text-align: center;
     
     color: #FFFFFF;
 }
 
-.footer{
-    position: absolute;
-    width: 1728px;
-    height: 471px;
-    left: 0px;
-    top: 2142px;
-    
-    background: #F4F4F4;
-}
 
-.boris{
+
+
+.winner{
     position: absolute;
-    width: 526px;
-    height: 28px;
-    left: 103px;
-    top: 77px;
+    width: 394px;
+    height: 18px;
+    left: 250px;
+    top: 73px;
     
     font-family: 'Times';
     font-style: normal;
     font-weight: 400;
-    font-size: 24px;
-    line-height: 28px;
+    font-size: 16px;
+    line-height: 18px;
     
-    color: #000000;
-    
+    color: #FFFFFF;
 }
 
-.special{
+
+
+
+
+.bmbp{
     position: absolute;
-    width: 551px;
-    height: 28px;
-    left: 103px;
-    top: 138px;
+    width: 232px;
+        height: 18px;
+    left: 330px;
+    top: 115px;
+
+    font-family: 'Times';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+
+    color: #A9F0FF;
+}
+
+.frame{
+    position: absolute;
+    width: 480px;
+    height: 897px;
+    left: 235px;
+    top: 556px;
+    
+    background: #F2F2F2;
+    border-radius: 0px 0px 50px 50px;
+    text-align: center;
+}
+
+
+
+
+.alt{
+    position: absolute;
+    width: 157px;
+    height: 40px;
+    left: 162px;
+    top: 25px;
+    
+    font-family: 'Times';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 40px;
+    text-align: center;
+    
+    color: #000000;
+}
+
+
+
+
+.q{
+    position: absolute;
+    width: 417px;
+    height: 783px;
+    left: 31px;
+    top: 82px;
     
     font-family: 'Times';
     font-style: normal;
     font-weight: 400;
-    font-size: 24px;
-    line-height: 28px;
-    /* identical to box height */
+    font-size: 25px;
+    line-height: 29px;
     
     color: #000000;
+    background: #F2F2F2;
 }
+
+.lorem{
+    width: 649px;
+    height: 207px;
+    top: 1505px;
+    left: 151px;
+
+    font-family: Times;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+
+.ertegi{
+    width: 683px
+    height: 37px
+    top: 1782px
+    left: 31px
+
+    font-family: Times;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 46px;
+    letter-spacing: 0em;
+    text-align: center;
+
+    color: #000000;
+}
+
+.e{
+    width: 903px
+    height: 792px
+    top: 1853px
+    left: 31px
+    font-family: Times;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 34px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #000000;
+}
+
+.frame2{
+    position: absolute;
+    width: 215px;
+    height: 60px;
+    left: 31px;
+    top: 2694px;
+    
+    background: #00C2FF;
+    border-radius: 10px;
+}
+
+.batyrma{
+    position: absolute;
+    width: 141px;
+    height: 23px;
+    left: 37px;
+    top: 18px;
+    
+    font-family: 'Times';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    
+    color: #FFFFFF;
+}
+
+.frame3{
+position: absolute;
+width: 329px;
+height: 60px;
+left: 31px;
+top: 2772px;
+
+background: #EA6329;
+border-radius: 10px;
+}
+
+.batyr{
+
+position: absolute;
+width: 141px;
+height: 23px;
+left: 94px;
+top: 18px;
+
+font-family: 'Times';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+text-align: center;
+
+color: #FFFFFF;
+
+}
+
+
 
 
 
