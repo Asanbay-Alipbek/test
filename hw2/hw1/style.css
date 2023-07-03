@@ -1,0 +1,285 @@
+div{
+    width: 951px;
+    height: 2877px;
+    
+    background: #FFFFFF;
+}
+
+.salem{
+    position: absolute;
+    width: 216px;
+    height: 23px;
+    left: 29px;
+    top: 28px;
+
+    font-family: 'Times';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+
+    color: #000000;
+}
+
+.veb{
+    position: absolute;
+    width: 916px;
+    height: 46px;
+    left: 29px;
+    top: 67px;
+
+    font-family: 'Times';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+
+    color: #000000;
+}
+
+.lv{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 29px;
+    top: 157px;
+    bottom: 200px;
+    
+    background: #FF9494;
+    border-radius: 100px 100px 100px 0px;
+
+   
+   
+}
+
+
+
+.citta{
+
+    position: absolute;
+    width: 893px;
+    height: 155px;
+    left: 29px;
+    top: 373px;
+    
+    background: #3F3F3F;
+    border-radius: 0px 20px 20px 20px;
+    
+}
+
+.cc{
+    position: absolute;
+    width: 264px;
+    height: 43px;
+    left: 315px;
+    top: 17px;
+    
+    font-family: 'Times';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 37px;
+    line-height: 43px;
+    /* identical to box height */
+    text-align: center;
+    
+    color: #FFFFFF;
+}
+
+
+
+
+.winner{
+    position: absolute;
+    width: 394px;
+    height: 18px;
+    left: 250px;
+    top: 73px;
+    
+    font-family: 'Times';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+    
+    color: #FFFFFF;
+}
+
+
+
+
+
+.bmbp{
+    position: absolute;
+    width: 232px;
+        height: 18px;
+    left: 330px;
+    top: 115px;
+
+    font-family: 'Times';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+
+    color: #A9F0FF;
+}
+
+.frame{
+    position: absolute;
+    width: 480px;
+    height: 897px;
+    left: 235px;
+    top: 556px;
+    
+    background: #F2F2F2;
+    border-radius: 0px 0px 50px 50px;
+    text-align: center;
+}
+
+
+
+
+.alt{
+    position: absolute;
+    width: 157px;
+    height: 40px;
+    left: 162px;
+    top: 25px;
+    
+    font-family: 'Times';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 40px;
+    text-align: center;
+    
+    color: #000000;
+}
+
+
+
+
+.q{
+    position: absolute;
+    width: 417px;
+    height: 783px;
+    left: 31px;
+    top: 82px;
+    
+    font-family: 'Times';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 29px;
+    
+    color: #000000;
+    background: #F2F2F2;
+}
+
+.lorem{
+    width: 649px;
+    height: 207px;
+    top: 1505px;
+    left: 151px;
+
+    font-family: Times;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+
+.ertegi{
+    width: 683px
+    height: 37px
+    top: 1782px
+    left: 31px
+
+    font-family: Times;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 46px;
+    letter-spacing: 0em;
+    text-align: center;
+
+    color: #000000;
+}
+
+.e{
+    width: 903px
+    height: 792px
+    top: 1853px
+    left: 31px
+    font-family: Times;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 34px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #000000;
+}
+
+.frame2{
+    position: absolute;
+    width: 215px;
+    height: 60px;
+    left: 31px;
+    top: 2694px;
+    
+    background: #00C2FF;
+    border-radius: 10px;
+}
+
+.batyrma{
+    position: absolute;
+    width: 141px;
+    height: 23px;
+    left: 37px;
+    top: 18px;
+    
+    font-family: 'Times';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    
+    color: #FFFFFF;
+}
+
+.frame3{
+position: absolute;
+width: 329px;
+height: 60px;
+left: 31px;
+top: 2772px;
+
+background: #EA6329;
+border-radius: 10px;
+}
+
+.batyr{
+
+position: absolute;
+width: 141px;
+height: 23px;
+left: 94px;
+top: 18px;
+
+font-family: 'Times';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+text-align: center;
+
+color: #FFFFFF;
+
+}
+
+
+
+
+
+

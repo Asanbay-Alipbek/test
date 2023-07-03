@@ -1,0 +1,408 @@
+.header{
+    position: absolute;
+    width: 1728px;
+    height: 80px;
+    left: 0px;
+    top: 0px;
+    
+    background: #F4F4F4;
+}
+
+.vbk{
+    position: absolute;
+    width: 273px;
+    height: 28px;
+    left: 76px;
+    top: 26px;
+    
+    font-family: 'Times';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #000000;
+}
+
+
+
+
+.tsa{
+    position: absolute;
+    width: 223px;
+    height: 28px;
+    left: 1425px;
+    top: 26px;
+    
+    font-family: 'Times';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #000000;
+}
+
+.cards{
+    position: absolute;
+    width: 1578px;
+    height: 1200px;
+    left: 76px;
+    top: 141px;
+}
+
+.salem{
+    position: absolute;
+    width: 274px;
+    height: 1200px;
+    left: 0px;
+    top: 0px;
+}
+
+.frame1{
+    position: absolute;
+    width: 274px;
+    height: 380px;
+    left: 0px;
+    top: 0px;
+    
+    background: #F4F4F4;
+    border-radius: 10px;    
+}
+
+.card1{
+    width: 201px
+    height: 74px
+    top: 34px
+    left: 24px
+    font-family: Times;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 37px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #000000;
+}
+
+.l1{
+    width: 230px
+    height: 224px
+    top: 141px
+    left: 25px
+    font-family: Times;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #000000;
+}
+
+
+.close{
+    position: absolute;
+    width: 40px;
+    height: 21px;
+    left: 216px;
+    top: 13px;
+    
+    font-family: 'Times';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    
+    
+    color: #000000;
+}
+
+
+
+
+
+.frame2{
+    position: absolute;
+    width: 274px;
+    height: 380px;
+    left: 0px;
+    top: 410px;
+    
+    background: #F4F4F4;
+    border-radius: 10px;
+    
+}
+
+.card2{
+    position: absolute;
+    width: 201px;
+    height: 111px;
+    left: 24px;
+    top: 34px;
+    
+    font-family: 'Times';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 37px;
+    
+    color: #000000;
+    
+}
+
+
+.close2{
+    position: absolute;
+    width: 40px;
+    height: 21px;
+    left: 216px;
+    top: 13px;
+    
+    font-family: 'Times';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    
+    color: #000000;
+}
+
+
+
+
+.l2{
+    position: absolute;
+    width: 230px;
+    height: 198px;
+    left: 25px;
+    top: 167px;
+    
+    font-family: 'Times';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #000000;
+    
+}
+
+.frame3{
+    position: absolute;
+    width: 274px;
+    height: 380px;
+    left: 0px;
+    top: 820px;
+    
+    background: #F4F4F4;
+    border-radius: 10px;    
+}
+
+.card3{
+    position: absolute;
+    width: 201px;
+    height: 111px;
+    left: 24px;
+    top: 34px;
+    
+    font-family: 'Times';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 37px;
+    
+    color: #000000;    
+}
+
+.close3{
+    position: absolute;
+    width: 40px;
+    height: 21px;
+    left: 216px;
+    top: 13px;
+    
+    font-family: 'Times';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    
+    color: #000000; 
+}
+
+.l3{
+    position: absolute;
+    width: 230px;
+    height: 200px;
+    left: 25px;
+    top: 165px;
+    
+    font-family: 'Times';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #000000;
+    
+}
+
+.frame5{
+    position: absolute;
+    width: 1200px;
+    height: 380px;
+    left: 378px;
+    top: 0px;
+    
+    background: #F4F4F4;
+    border-radius: 10px;    
+}
+
+.zh{
+    position: absolute;
+    width: 263px;
+    height: 28px;
+    left: 27px;
+    top: 27px;
+    
+    font-family: 'Times';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #000000;
+}
+
+.frame4{
+    position: absolute;
+    width: 1572px;
+    height: 591px;
+    left: 76px;
+    top: 1491px;
+    
+}
+
+.ers{
+    position: absolute;
+    width: 760px;
+    height: 69px;
+    left: 406px;
+    top: 0px;
+    
+    font-family: 'Times';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 69px;
+
+    color: #000000;  
+}
+
+
+
+.ers2{
+    position: absolute;
+    width: 1551px;
+    height: 276px;
+    left: 21px;
+    top: 95px;
+    
+    font-family: 'Times';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 46px;
+    
+    color: #000000;
+}
+
+.cd{
+    position: absolute;
+    width: 548px;
+    height: 21px;
+    left: 21px;
+    top: 480px;
+    
+    font-family: 'Times';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    
+    color: #000000; 
+}
+
+.button{
+    position: absolute;
+    width: 250px;
+    height: 75px;
+    left: 21px;
+    top: 516px;
+    
+    background: #3455FF;
+    border-radius: 10px;
+}
+
+.more{
+    position: absolute;
+    width: 155px;
+    height: 37px;
+    left: 47px;
+    top: 19px;
+    
+    font-family: 'Times';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 37px;
+    
+    color: #FFFFFF;
+}
+
+.footer{
+    position: absolute;
+    width: 1728px;
+    height: 471px;
+    left: 0px;
+    top: 2142px;
+    
+    background: #F4F4F4;
+}
+
+.boris{
+    position: absolute;
+    width: 526px;
+    height: 28px;
+    left: 103px;
+    top: 77px;
+    
+    font-family: 'Times';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #000000;
+    
+}
+
+.special{
+    position: absolute;
+    width: 551px;
+    height: 28px;
+    left: 103px;
+    top: 138px;
+    
+    font-family: 'Times';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    /* identical to box height */
+    
+    color: #000000;
+}
+
+
+
+
